@@ -1,4 +1,3 @@
-```markdown
 # ⚡ CLI Power Tools: Mac 终端效率神器清单
 
 > "为什么我要下载几百 MB 的软件，去完成一行命令就能做到的事？"
